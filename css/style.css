@@ -1,9 +1,9 @@
 :root {
-  --color-yellow: hsl(56, 99%, 52%);
-  --color-yellow-dark: hsl(56, 99%, 32%);
-  --color-yellow-light: hsl(56, 99%, 82%);
-  --color-black: hsl(0, 0%, 15%);
-  --color-black-light: hsl(0, 0%, 22%);
+  --color-yellow: hsl(110, 99%, 52%);
+  --color-yellow-dark: hsl(72, 99%, 32%);
+  --color-yellow-light: hsl(55, 100%, 5%);
+  --color-black: hsl(0, 0%, 0%);
+  --color-black-light: hsl(0, 0%, 1%);
   --color-red: hsl(359, 77%, 56%);
   --grid-column-gap: clamp(2rem, 6vw, 8rem);
   --grid-row-gap: 4rem;
